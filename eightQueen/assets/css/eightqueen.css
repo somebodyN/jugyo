@@ -1,0 +1,35 @@
+h1 {
+    font-size: 8vh;
+    margin: 2vh auto;
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+
+table {
+    border-radius: 8px;
+    border-spacing: 2px;
+    margin: 10px auto;
+    background-color: black;
+}
+th,td {
+    background-color: white;
+    border: solid 1px;  /* 枠線指定 */
+    padding: 10px;      /* 余白指定 */
+}
+td {
+    height: 9vh;
+    width: 9vh;
+}
+img {
+    object-fit: contain;
+    widows: 100%;
+    height: 100%;
+}
+.button-wrapper {
+    text-align:center;
+}
+
+.Placed { background-color: #04D4F0; }
+.Placed-line { background-color: #6AF2F0; }
